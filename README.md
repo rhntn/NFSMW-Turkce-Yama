@@ -19,7 +19,7 @@ Türkçe metinleri elden geçirilmiş, Türkçe karakter desteği ve Widescreen 
 
 ## İndirme
 
-[Son sürümü indir](https://github.com/rhntn/NFSMW-Turkce-Yama/releases/latest) | [Virustotal](https://github.com/rhntn/NFSMW-Turkce-Yama/releases/latest](https://www.virustotal.com/gui/file/41ab824c6821a21fc692bd72f2019d38f43536677c527bef0de89d3a0ad8af57?nocache=1).
+[Son sürümü indir](https://github.com/rhntn/NFSMW-Turkce-Yama/releases/latest) | [Virustotal](https://github.com/rhntn/NFSMW-Turkce-Yama/releases/latest](https://www.virustotal.com/gui/file/41ab824c6821a21fc692bd72f2019d38f43536677c527bef0de89d3a0ad8af57).
 
 ## Kurulum
 
