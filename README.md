@@ -1,6 +1,6 @@
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/1f767d79-490e-4e4a-928c-753c98fab704" />
 
-﻿# Need for Speed Most Wanted (2005) — Türkçe Yama 2026
+﻿# Need for Speed Most Wanted (2005) — Türkçe Yama 2026 #
 
 **Sürüm: 2026.1 · Güncelleme tarihi: 26 Eylül 2026**
 
@@ -19,7 +19,9 @@ Türkçe metinleri elden geçirilmiş, Türkçe karakter desteği ve Widescreen 
 
 ## İndirme
 
-[Son sürümü indir](https://github.com/rhntn/NFSMW-Turkce-Yama/releases/latest) | [Virustotal](https://github.com/rhntn/NFSMW-Turkce-Yama/releases/latest](https://www.virustotal.com/gui/file/41ab824c6821a21fc692bd72f2019d38f43536677c527bef0de89d3a0ad8af57).
+[Son sürümü indir](https://github.com/rhntn/NFSMW-Turkce-Yama/releases/latest)
+
+Virustotal: https://www.virustotal.com/gui/file/41ab824c6821a21fc692bd72f2019d38f43536677c527bef0de89d3a0ad8af57
 
 ## Kurulum
 
