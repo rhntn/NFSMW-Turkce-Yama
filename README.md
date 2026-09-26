@@ -2,6 +2,8 @@
 
 **Sürüm: 2026.1 · Güncelleme tarihi: 26 Eylül 2026**
 
+**Türkçe çeviri ve 2026 düzenlemesi: Orhan Tan**
+
 Türkçe metinleri elden geçirilmiş, Türkçe karakter desteği ve Widescreen Fix içeren topluluk yaması.
 
 ## Özellikler
@@ -21,15 +23,38 @@ Sürüm sayfasındaki **NFSMW-Turkce-Yama-2026.1.zip** dosyasını indirin. GitH
 
 ## Kurulum
 
-1. Need for Speed Most Wanted **2005 PC sürümünü** kapatın. Paket, oyunun 1.3 sürümü için hazırlanmıştır; 2012 yapımı Most Wanted için değildir.
-2. Oyun ana klasörünü, yani **speed.exe** dosyasının bulunduğu klasörü açın.
-3. Değiştirilecek dosyalarınızı yedekleyin. Özellikle aşağıdaki klasörler içindeki aynı adlı dosyaları, `dinput8.dll` dosyasını ve mevcut Widescreen Fix ayarlarınızı saklayın.
-4. ZIP'i çıkarın. İçindeki **CREDITS, FRONTEND, GLOBAL, LANGUAGES, MEMCARD, scripts** klasörlerini ve **dinput8.dll** dosyasını doğrudan oyun ana klasörüne kopyalayın. Aynı adlı dosyaların değiştirilmesini kabul edin. İç içe ikinci bir oyun klasörü oluşturmayın.
-5. Oyunu normal şekilde başlatın.
+1. Oyunu kapatın ve mevcut oyun dosyalarınızın bir yedeğini alın.
+2. İndirdiğiniz **ZIP dosyasını açın**.
+3. İçindeki **tüm dosya ve klasörleri oyunun ana klasörüne kopyalayın**. “Dosyalar değiştirilsin mi?” sorusuna **Evet** deyin.
+4. Oyunu açın. Türkçe yama ve Widescreen Fix hazır!
 
-Paketteki `scripts/NFSMostWanted.WidescreenFix.ini` dosyasında `Language = German` seçilidir. Türkçe metinler German dilinin yerini alır; Dutch dil dosyası da aynı Türkçe içerikle sunulur. Oyunu ayrıca İngilizceye veya Lehçeye ayarlamanız gerekmez.
+**Oyunun ana klasörü, `speed.exe` dosyasının bulunduğu yerdir.** Dosyaları bu klasörün içine kopyalayın; ayrıca bir alt klasör oluşturmayın. Dil ayarı yapmanız gerekmez.
 
-Dil ve font dosyalarını birlikte kurun. Yalnızca German.bin dosyasını kopyalamak Türkçe karakterlerin hatalı görünmesine neden olabilir.
+### Oyun klasörünü nerede bulabilirim?
+
+En kolay yol: Masaüstündeki oyun kısayoluna sağ tıklayıp **Dosya konumunu aç** seçeneğini kullanın.
+
+2005 sürümünün kurulu olduğu klasör, seçtiğiniz diske ve kuruluma göre örneğin şuralarda olabilir:
+
+```text
+C:\Program Files (x86)\EA GAMES\Need for Speed Most Wanted\
+C:\Program Files\EA GAMES\Need for Speed Most Wanted\
+D:\Oyunlar\Need for Speed Most Wanted\
+D:\OYUN\EA\Need for Speed Most Wanted 2005\
+```
+
+**EA app, eski Origin ve Steam klasörleri:** Oyunlar genellikle aşağıdaki kütüphanelerin içindeki kendi klasörlerinde bulunur. Bunlar genel konum örnekleridir; Most Wanted 2005'in bu platformlarda satıldığı anlamına gelmez.
+
+```text
+EA app:  C:\Program Files\EA Games\
+Origin:  C:\Program Files (x86)\Origin Games\
+Steam:   C:\Program Files (x86)\Steam\steamapps\common\
+Başka diskte Steam: D:\SteamLibrary\steamapps\common\
+```
+
+Yamayı bu kütüphane klasörlerine doğrudan değil, **içinde `speed.exe` bulunan 2005 oyununun klasörüne** kopyalayın. Steam'e kısayol olarak eklediğiniz oyun, önceki kurulum konumunda kalır.
+
+**Bu yama yalnızca Most Wanted 2005 PC 1.3 içindir.** [Steam mağazasındaki Most Wanted, 2012 sürümüdür](https://store.steampowered.com/app/1262560/Need_for_Speed_Most_Wanted/); bu yamayı ona kurmayın.
 
 ## Ayarlar ve uyumluluk
 
@@ -50,7 +75,7 @@ Oyunu kapatıp kurulumdan önce aldığınız yedekleri aynı konumlara geri koy
 
 ## Emeği geçenler ve kaynaklar
 
-- 2026 düzenlemesi ve paketleme: [Orhan / rhntn](https://github.com/rhntn).
+- Türkçe çeviri, 2026 düzenlemesi ve paketleme: [Orhan Tan / rhntn](https://github.com/rhntn).
 - Mevcut German/Dutch Türkçe çeviri tabanı: NFSTR topluluk yaması.
 - Türkçe font tabanı: **muntazam**, [Türkçe Yama 1.0.1](https://www.moddb.com/downloads/need-for-speed-most-wanted-turkish-translation-patch-v10). Bu pakette büyük Ş harfinin font ölçüleri ayrıca düzenlenmiştir.
 - **ThirteenAG ve katkıda bulunanlar**: [Widescreen Fix](https://github.com/ThirteenAG/WidescreenFixesPack), [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader). İlgili MIT lisansları `licenses` klasöründedir.
