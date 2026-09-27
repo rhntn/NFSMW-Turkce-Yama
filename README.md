@@ -8,12 +8,12 @@
 
 Türkçe metinleri elden geçirilmiş, Türkçe karakter desteği ve Widescreen Fix içeren topluluk yaması.
 
-<img width="480" height="240" alt="image" src="https://github.com/user-attachments/assets/982c1de7-9278-472b-9e5a-c98167cba346" />
-<img width="480" height="240" alt="image" src="https://github.com/user-attachments/assets/a9103337-620a-4f7e-9983-773fd7cd0ac4" />
-<img width="480" height="240" alt="image" src="https://github.com/user-attachments/assets/549ba931-1b0c-4af5-b22e-b9ffe13e15c1" />
-<img width="480" height="240" alt="image" src="https://github.com/user-attachments/assets/ff787c70-7697-410e-9ef3-884b0d5604a4" />
-<img width="480" height="240" alt="image" src="https://github.com/user-attachments/assets/cf2af002-cf30-42a3-b3eb-11a93abfbf4d" />
-<img width="480" height="240" alt="image" src="https://github.com/user-attachments/assets/de15bf11-a94f-4108-9b68-bbb359822094" />
+<img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/982c1de7-9278-472b-9e5a-c98167cba346" />
+<img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/a9103337-620a-4f7e-9983-773fd7cd0ac4" />
+<img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/549ba931-1b0c-4af5-b22e-b9ffe13e15c1" />
+<img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/ff787c70-7697-410e-9ef3-884b0d5604a4" />
+<img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/cf2af002-cf30-42a3-b3eb-11a93abfbf4d" />
+<img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/de15bf11-a94f-4108-9b68-bbb359822094" />
 
 ## Özellikler
 
