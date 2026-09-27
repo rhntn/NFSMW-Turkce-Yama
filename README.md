@@ -8,6 +8,8 @@
 
 Türkçe metinleri elden geçirilmiş, Türkçe karakter desteği ve Widescreen Fix içeren topluluk yaması.
 
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/982c1de7-9278-472b-9e5a-c98167cba346" />
+
 ## Özellikler
 
 - Çeviri, anlam, yazım ve terim tutarlılığı düzeltmeleri.
